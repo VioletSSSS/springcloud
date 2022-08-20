@@ -1,1 +1,2 @@
-configconfig-dev version 1.0
+config:
+ info: "config-dev version 1.0"
